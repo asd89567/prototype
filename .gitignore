@@ -1,0 +1,8 @@
+cache/
+results/
+*.log
+__pycache__/
+*.pyc
+patch_all.py
+patch_script.py
+.DS_Store
